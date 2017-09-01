@@ -28,3 +28,4 @@ Shifts for *Laravel Packages* include:
 - [Laravel Package 5.1 Shift - upgrade from Laravel 5.0 to 5.1](https://laravelshift.com/upgrade-laravel-package-5.0-to-5.1)
 - [Laravel Package 5.2 Shift - upgrade from Laravel 5.1 to 5.2](https://laravelshift.com/upgrade-laravel-package-5.1-to-5.2)
 - [Laravel Package 5.3 Shift - upgrade from Laravel 5.2 to 5.3](https://laravelshift.com/upgrade-laravel-package-5.2-to-5.3)
+  
